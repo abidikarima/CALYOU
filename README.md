@@ -19,16 +19,22 @@
   </tr>
   <tr>
     <td>vive tahar misoum rabi yahafdak</td>
-    <td>تحيا طاهر ميسوم/td>
+    <td>تحيا طاهر ميسوم </td>
   
   </tr>
 <tr>
-    <td>Merci chemsou je t'adore/td>
+    <td>Merci chemsou je t'adore </td>
     <td>نحبك شمسو بزاف</td>
   
   </tr>
+ 
   <tr>
-    <td>h2/td>
+    <td> 10 mai 2017 mazalni nchouf la vidéo chkoun kima ana </td>
+    <td>لي مزال يعاود ف فيديو يكليكي جام علبالي رانا بزاف</td>
+  
+  </tr>
+   <tr>
+    <td>h2 </td>
     <td>h3</td>
   
   </tr>
