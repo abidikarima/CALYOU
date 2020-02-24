@@ -1,6 +1,6 @@
 # <b>CALYOU</b><br>
 
-<b> <font size="+3"> Ressource type </font></b>: comparable corpus<br>
+<b> <font size="+5"> Ressource type </font></b>: comparable corpus<br>
 <b>Ressource name</b>: CALYOU «A Comparable  Spoken Algerian Corpus Harvested from YouTube»<br>
 <b>Size</b>: 102.674k<br>
 <b>Languages</b>: Arabic dialect, Modern Standard Arabic, French and English. <br>
