@@ -12,11 +12,11 @@
 <b>Resource description</b>: <br>
 CALYOU is comparable corpus extracted automatically from YouTube by using a multilingual word embedding approach. These comments could be written either in local Arabic (dialect), Modern Standard Arabic or French.\\
 The final corpus contains  102.674k comparable comments pairs. The source part  contains comments written in Latin script:  Arabizi (Arabic dialect written latin character), French or English. However the target part contains comments written in Arabic script: (MSA or dialect). A sample is given below. <br>
-<br>
+
 <table>
   <tr>
-    <td>Source comment</td>
-    <td>Target comment</td>
+    <td> <b> Source comment</b></td>
+    <td><b>Target comment</b></td>
   
   </tr>
   <tr>
