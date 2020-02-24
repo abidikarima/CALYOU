@@ -16,15 +16,13 @@
     <td>&nbsp;</td>
     <td>Knocky</td>
     <td>Flor</td>
-    <td>Ella</td>
-    <td>Juan</td>
+  
   </tr>
   <tr>
     <td>Race</td>
     <td>Jack Russell</td>
     <td>Poodle</td>
-    <td>Streetdog</td>
-    <td>Cocker Spaniel</td>
+  
   </tr>
 
 </table>
