@@ -10,9 +10,8 @@
 <b>License</b>: GNU General public License V3.0<br>
 <b>Resource URL</b>: https://smart.loria.fr/corpora/<br>
 <b>Resource description</b>: <br>
-This resource concern the Algerian dialect, it is generated automatically by using iterative multilingual word embedding approach. <br>
-
-Each entry of this lexicons is composed by a word, written in Arabic script (modern standard Arabic or dialect) or Latin script (Arabizi, French or English). for each word  several wwriting forms  in a script different from the one used for the word itself are extracted from YouTube. A sample is given below. <br>
+CALYOU is comparable corpus extracted automatically from YouTube by using a multilingual word embedding approach. These comments could be written either in local Arabic (dialect), Modern Standard Arabic or French. <br>
+% The final corpus contains  102.674k comparable comments pairs. The source part of this corpus contains comments written in Latin script:  Arabizi (Arabic dialect written latin character), French or English. However the target part contains comments written in Arabic script: (MSA or dialect). A sample is given below. <br>
 
 <table>
   <tr>
