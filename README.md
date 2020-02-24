@@ -14,14 +14,14 @@
 <table>
   <tr>
     <td>&nbsp;</td>
-    <td>Knocky</td>
-    <td>Flor</td>
+    <td>Source comment</td>
+    <td>Target comment</td>
   
   </tr>
   <tr>
-    <td>Race</td>
-    <td>Jack Russell</td>
-    <td>Poodle</td>
+    <td>h1</td>
+    <td>h2</td>
+    <td>h3</td>
   
   </tr>
 
