@@ -10,7 +10,7 @@
 <b>License</b>: GNU General public License V3.0<br>
 <b>Resource URL</b>: https://smart.loria.fr/corpora/<br>
 <b>Resource description</b>: <br>
-CALYOU is comparable corpus extracted automatically from YouTube by using a multilingual word embedding approach. These comments could be written either in local Arabic (dialect), Modern Standard Arabic or French.\\
+CALYOU is comparable corpus extracted automatically from YouTube by using a multilingual word embedding approach. These comments could be written either in local Arabic (dialect), Modern Standard Arabic or French. <br>
 The final corpus contains  102.674k comparable comments pairs. The source part  contains comments written in Latin script:  Arabizi (Arabic dialect written latin character), French or English. However the target part contains comments written in Arabic script: (MSA or dialect). A sample is given below. <br>
 
 <table>
