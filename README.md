@@ -13,17 +13,24 @@
 
 <table>
   <tr>
-    <td>&nbsp;</td>
     <td>Source comment</td>
     <td>Target comment</td>
   
   </tr>
   <tr>
-    <td>h1</td>
-    <td>h2</td>
+    <td>vive tahar misoum rabi yahafdak</td>
+    <td>تحيا طاهر ميسوم/td>
+  
+  </tr>
+<tr>
+    <td>Merci chemsou je t'adore/td>
+    <td>نحبك شمسو بزاف</td>
+  
+  </tr>
+  <tr>
+    <td>h2/td>
     <td>h3</td>
   
   </tr>
-
 </table>
 <b>Documentation</b>: Karima Abidi, Mohamed Amine Menacer, Kamel Smaili. CALYOU: A Comparable Spoken Algerian Corpus Harvested from YouTube. 18th Annual Conference of the International Communication Association (Interspeech), Aug 2017, Stockholm, Sweden.
