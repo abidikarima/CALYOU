@@ -42,6 +42,6 @@ The final corpus contains  102.674k comparable comments pairs. The source part o
   </tr>
 </table>
 <b>Documentation</b>: <br>
-If you use this lexicon, please cite the following paper <br>
+If you use this ressource, please cite the following paper : <br>
 
 Karima Abidi, Mohamed Amine Menacer, Kamel Smaili. CALYOU: A Comparable Spoken Algerian Corpus Harvested from YouTube. 18th Annual Conference of the International Communication Association (Interspeech), Aug 2017, Stockholm, Sweden.
