@@ -4,13 +4,13 @@
 <b>Ressource name</b>: CALYOU «<A Comparable  Spoken Algerian Corpus Harvested from YouTube»<br>
 <b>Size</b>: 102.674k<br>
 <b>Languages</b>: Algerian dialect, Modern Standard Arabic, French and English. <br>
-<b>Modality</b>: written <br>
-<b>Use of the resource</b>: Extraction of bilingual segments and lexicon<br>
+<b>Modality</b>: written. <br>
+<b>Use of the resource</b>: extraction of bilingual segments and lexicon.<br>
 <b>Resource availability</b>: freely available<br>
 <b>License</b>: GNU General public License V3.0<br>
 <b>Resource URL</b>: https://smart.loria.fr/corpora/<br>
 <b>Resource description</b>: <br>
-CALYOU is a comparable corpus extracted automatically from YouTube by using a multilingual word embedding approach. These comments could be written either in local Arabic (dialect), Modern Standard Arabic or French. <br>
+CALYOU is a comparable corpus extracted automatically from YouTube by using a multilingual word embedding approach. These comments could be written either in local Arabic (dialect), Modern Standard Arabic, French or English. <br>
 The final corpus contains  102.674k comparable comments pairs. The source part of this corpus contains comments written in Latin script:  Arabizi (Arabic dialect written latin character), French or English. However the target part contains comments written in Arabic script: (MSA or Algerian dialect). Some examples are given below. <br>
 
 <table>
@@ -44,4 +44,4 @@ The final corpus contains  102.674k comparable comments pairs. The source part o
 <b>Documentation</b>: <br>
 If you use this ressource, please cite the following paper : <br>
 
-Karima Abidi, Mohamed Amine Menacer, Kamel Smaili. CALYOU: A Comparable Spoken Algerian Corpus Harvested from YouTube. 18th Annual Conference of the International Communication Association (Interspeech), Aug 2017, Stockholm, Sweden.
+Karima Abidi, Mohamed Amine Menacer, Kamel Smaili. CALYOU: A Comparable Spoken Algerian Corpus Harvested from YouTube. 18th Annual Conference of the International Communication Association (Interspeech), Aug 2017, Stockholm, Sweden. Pdf: https://hal.archives-ouvertes.fr/hal-01531591/file/KarimaKAmelInterspeech2017.pdf
