@@ -1,12 +1,12 @@
 # <b>CALYOU</b><br>
 
-<b> <font size="+5"> Ressource type </font></b>: comparable corpus<br>
+<b> <font size="+5"> Ressource type </font></b>: Comparable corpus<br>
 <b>Ressource name</b>: CALYOU «<A Comparable  Spoken Algerian Corpus Harvested from YouTube»<br>
 <b>Size</b>: 102.674k<br>
 <b>Languages</b>: Algerian dialect, Modern Standard Arabic, French and English. <br>
-<b>Modality</b>: written. <br>
-<b>Use of the resource</b>: extraction of bilingual segments and lexicon.<br>
-<b>Resource availability</b>: freely available<br>
+<b>Modality</b>: Written. <br>
+<b>Use of the resource</b>: Extraction of bilingual segments and lexicon.<br>
+<b>Resource availability</b>: Freely available<br>
 <b>License</b>: GNU General public License V3.0<br>
 <b>Resource URL</b>: https://smart.loria.fr/corpora/<br>
 <b>Resource description</b>: <br>
