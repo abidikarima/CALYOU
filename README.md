@@ -37,8 +37,13 @@ Some examples are given below. <br>
   
   </tr>
    <tr>
-    <td> now we are free gladiator theme song </td>
-    <td>شكون يعرف اسم الاغنية عجبتني هاد موسيقة</td>
+    <td> wch 3nwan song li darha svp jawboni </td>
+    <td>واش هي الاغنية لي دارها فالفيديو وشكرا</td>
+  
+  </tr>
+  <tr>
+    <td>nice song by hasni and also by zouhair nice cover all the best </td>
+    <td>اغنية رائعة للمرحوم حسني شكراا زهير سنة مزال حاضر الشاب حسني</td>
   
   </tr>
 </table>
