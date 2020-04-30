@@ -11,7 +11,7 @@
 <b>Resource description</b>: <br>
 CALYOU is a comparable corpus extracted automatically from YouTube by using a multilingual word embedding approach. These comments could be written either in local Arabic (dialect), Modern Standard Arabic, French or English.<br>
 The source part of this corpus contains comments written in Latin script: Arabizi (Arabic dialect written latin character), French or English. However the target part contains comments written in Arabic script: (MSA or Algerian dialect). 
-We offer you two versions of CALYOU. In the first one we selected only the comparable documents with a high compatibility degree,   which leads  to build a corpus composed of  <b> 5.19<\b>k of entries. Whereas  the second version is moderately comparable which contains of <b>38.5<\b>k of comparable comments.
+We offer you two versions of CALYOU. In the first one we selected only the comparable documents with a high compatibility degree,   which leads  to build a corpus composed of  <b>5.19</b>k of entries. Whereas  the second version is moderately comparable which contains of <b>38.5</b>k of comparable comments.
 Some examples are given below. <br>
 
 <table>
